@@ -13,7 +13,7 @@
 }
 
 .u-section-1 .u-gallery-1 {
-  height: 415px;
+  height: 670px;
   margin-top: 9px;
   margin-bottom: 50px;
   grid-gap: 17px;
@@ -84,7 +84,7 @@
   }
 
   .u-section-1 .u-gallery-1 {
-    height: 343px;
+    height: 555px;
   }
 }
 
@@ -98,7 +98,7 @@
   }
 
   .u-section-1 .u-gallery-1 {
-    height: 603px;
+    height: 870px;
   }
 
   .u-section-1 .u-gallery-inner-1 {
@@ -116,7 +116,7 @@
   }
 
   .u-section-1 .u-gallery-1 {
-    height: 1833px;
+    height: 2300px;
   }
 
   .u-section-1 .u-gallery-inner-1 {
@@ -134,6 +134,6 @@
   }
 
   .u-section-1 .u-gallery-1 {
-    height: 1186px;
+    height: 1525px;
   }
 }

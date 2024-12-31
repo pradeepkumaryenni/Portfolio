@@ -76,7 +76,7 @@
 }
 
 .u-section-2 .u-text-2 {
-  margin: -53px 12px 0 198px;
+  margin: 0px 12px 0 198px;
 }
 
 .u-section-2 .u-text-3 {
@@ -84,7 +84,7 @@
 }
 
 .u-section-2 .u-text-4 {
-  margin: -47px 12px 26px 198px;
+  margin: 0px 12px 26px 198px;
 }
 
 @media (max-width: 1199px) {
@@ -130,7 +130,7 @@
 }
 
 .u-section-3 .u-gallery-1 {
-  height: 415px;
+  height: 672px;
   margin-top: 9px;
   margin-bottom: 50px;
   grid-gap: 17px;
@@ -138,7 +138,8 @@
 
 .u-section-3 .u-gallery-inner-1 {
   grid-template-columns: repeat(3, auto);
-  grid-gap: 30px;
+  row-gap: 35px;
+  column-gap: 30px;
 }
 
 .u-section-3 .u-gallery-item-1 {
@@ -251,7 +252,7 @@
   }
 
   .u-section-3 .u-gallery-1 {
-    height: 1186px;
+    height: 1386px;
   }
 } .u-section-4 {
   background-position: 50% 50%;
